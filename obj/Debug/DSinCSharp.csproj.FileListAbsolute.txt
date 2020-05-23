@@ -1,0 +1,7 @@
+C:\Users\CHINMAY SHAH\source\repos\DSinCSharp\bin\Debug\DSinCSharp.exe.config
+C:\Users\CHINMAY SHAH\source\repos\DSinCSharp\bin\Debug\DSinCSharp.exe
+C:\Users\CHINMAY SHAH\source\repos\DSinCSharp\bin\Debug\DSinCSharp.pdb
+C:\Users\CHINMAY SHAH\source\repos\DSinCSharp\obj\Debug\DSinCSharp.csprojAssemblyReference.cache
+C:\Users\CHINMAY SHAH\source\repos\DSinCSharp\obj\Debug\DSinCSharp.csproj.CoreCompileInputs.cache
+C:\Users\CHINMAY SHAH\source\repos\DSinCSharp\obj\Debug\DSinCSharp.exe
+C:\Users\CHINMAY SHAH\source\repos\DSinCSharp\obj\Debug\DSinCSharp.pdb
